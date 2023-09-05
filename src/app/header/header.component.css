@@ -1,0 +1,15 @@
+.shopping-list {
+  position: relative;
+  /* padding-right: 10px; */
+}
+
+.shopping-list-count {
+  background-color: grey;
+  color: white;
+  border-radius: 50%;
+  padding: 2.5px 5px;
+  font-size: 12px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
