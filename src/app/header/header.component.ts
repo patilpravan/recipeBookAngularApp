@@ -43,7 +43,7 @@ export class HeaderComponent implements OnInit, OnDestroy {
   }
   forEmployerButtonClicked() {
     this.messageForEmployer =
-      'Technical Details\n  User Authentication : Login, Sign Up, Auto Login and Auto Logout\n  State management : NgRx\n  Form Features : Error Handling, Reactive Forms, Template Driven Forms, Validations\n  Routing : Auth Guards, Lazy Loading \n  Database : google Firebase \n  Github Repo : asdjasdjksad ';
+      'Technical Details\n\n  User Authentication : Login, Sign Up, Auto Login and Auto Logout\n\n  State management : NgRx\n\n  Form Features : Error Handling, Reactive Forms, Template Driven Forms, Validations\n\n  Routing : Auth Guards, Lazy Loading \n\n  Database : Google Firebase \n\n  Github Repo : https://github.com/patilpravan/recipeBookAngularApp ';
   }
   onCloseEmployerDialog() {
     this.messageForEmployer = null;
