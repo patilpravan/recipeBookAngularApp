@@ -40,3 +40,9 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+#Deployment file (Added by Pravan)
+.firebase/
+.firebaserc
+.github/
+firebase.json
